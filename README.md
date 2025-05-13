@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on automations for example Using NewsApi.org <br>and always find new things to break my mind to.
+I'm currently working on automations for my home using Home Assistant and trying out Homelabbing with old Laptops.
 
 
 # 💻 Tech Stack:
